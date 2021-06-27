@@ -1,4 +1,4 @@
-# Make It Easy Call
+# Make It Easy Call https://itika1.github.io/PathShala/
 Live streaming website for everyone
 # The problem Make It Easy Call solves
 This is a live video streaming website where people can join in a video call and start discussing important talks. This is absolutely free to start a video call and also it need low internet to run succesfully. All you need is that a agora account
