@@ -4,7 +4,7 @@ Live streaming website for everyone
 ## Important Credentials to join the stream
 APP ID- 4cb5cbee30b24c1b8a9e8970fdd8b2d4 
 
-TOKEN - 0064cb5cbee30b24c1b8a9e8970fdd8b2d4IAD5rP38BwADyhmK6XrJqcMFpqf9vK/2XddrPmpIXPf0/FdauFEAAAAAEAAY899JnPDaYAEAAQCZ8Npg
+TOKEN - 0064cb5cbee30b24c1b8a9e8970fdd8b2d4IAAD/ASoTCtfzs0Gyg1DCY2ves2/EY0Ka68BTk5SyYBzR1dauFEAAAAAEAAY899JqjjcYAEAAQCpONxg
 
 Channel Name - Basic
 # The problem Make It Easy Call solves
