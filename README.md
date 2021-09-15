@@ -4,7 +4,7 @@ Live streaming website for everyone
 ## Important Credentials to join the stream
 APP ID- 4cb5cbee30b24c1b8a9e8970fdd8b2d4 
 
-TOKEN - 0064cb5cbee30b24c1b8a9e8970fdd8b2d4IACe3TCKScsFyzqVRCNLVyzC40h+H3fPJlRkbTl4fF/LAldauFEAAAAAEADZzsCBl09AYQEAAQCVT0Bh
+TOKEN - 0064cb5cbee30b24c1b8a9e8970fdd8b2d4IADswZDmNxMpw+SnnK5VQ04svTuqNYYuylQP8IOq1F6KNldauFEAAAAAEAD+bihbkDxDYQEAAQCQPENh
 Channel Name - Basic
 # The problem Make It Easy Call solves
 This is a live video streaming website where people can join in a video call and start discussing important talks. This is absolutely free to start a video call and also it need low internet to run succesfully. All you need is that a agora account
